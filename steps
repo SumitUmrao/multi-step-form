@@ -1,0 +1,17 @@
+npx create-react-app multi-step-form
+cd multi-step-form
+
+npm install @mui/material @emotion/react @emotion/styled
+
+/src
+  /components
+    /Step1.js
+    /Step2.js
+    /Step3.js
+    /Form.js
+    /Navigation.js
+  /hooks
+    /useForm.js
+  App.js
+  index.js
+  styles.css
